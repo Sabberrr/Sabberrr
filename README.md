@@ -71,6 +71,5 @@ Other:
 © 2019 - 2025 All rights reserved.
 
 <br />
- [Linkedin]
 
 [Linkedin]: https://www.linkedin.com/in/ratna-lama/](https://www.linkedin.com/in/jan-catalan/
