@@ -72,4 +72,4 @@ Other:
 
 <br />
 
-[Linkedin]: https://www.linkedin.com/in/ratna-lama/](https://www.linkedin.com/in/jan-catalan/
+[Linkedin]: https://www.linkedin.com/in/jan-catalan/
