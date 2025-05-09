@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ratna
+# 👋 Hi there, I'm Jan
 [Linkedin]
 
 <br />
